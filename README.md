@@ -10,7 +10,7 @@
 	<label><input type="checkbox" name="Fruit" price = "4">桃子</label>
 	<label><input type="checkbox" name="Fruit" price = "3">香蕉</label>
 	<label><input type="checkbox" name="Fruit" price = "5">梨</label>
-	<div>图标</div>
+	
 	
 	
 	
